@@ -10,7 +10,7 @@ contact_note: >
   markraspopov0@gmail.com
   mraspop2@calstatela.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Work in progress new Mark Raspopov personal website. You can visit my official one at <a href="https://markraspopov.com">markraspopov.com</a>
+  Work in progress new Mark Raspopov personal website. You can visit my official one at https://markraspopov.com
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
